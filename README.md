@@ -15,7 +15,7 @@ The first wave of covid-19 impacted the global economy as the world was never re
 
 - You can see a drop in GDP per capita in all the countries with the highest number of covid-19 cases.
 
-- there is comparetively low changes in GDP before vocid-19 and GDP after Covid-19
+- there is comparetively low changes in GDP before covid-19 and GDP after Covid-19
 
 - One other important economic factor is Human Development Index. It is a statistic composite index of life expectancy, education, and per capita indicators.United States has the highest human development index while United kingdom has lowest Human Development Index.
 
